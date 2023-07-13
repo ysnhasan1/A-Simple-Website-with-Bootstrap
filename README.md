@@ -8,7 +8,7 @@ Don't forget to add Bootstrap CSS and JS to your code before you create your web
 Look at the image and gif below. My website is responsive to different screen sizes.
 
 ### ***Original Screen Size***
-<img src="https://github.com/ysnhasan1/A-Simple-Website-with-Bootstrap/assets/102024926/a567291e-ac83-4a32-a771-a8bc4eef0c55" height="650"><br />
+<img src="https://github.com/ysnhasan1/A-Simple-Website-with-Bootstrap/assets/102024926/a567291e-ac83-4a32-a771-a8bc4eef0c55" height="550"><br />
 ---
 
 ### ***Responsive to Smaller Screen Size***
