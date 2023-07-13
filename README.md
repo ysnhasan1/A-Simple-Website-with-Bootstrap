@@ -2,13 +2,13 @@
 # A-Simple-Website-with-Bootstrap
 ### Creating a Responsive Product Page with Bootstrap.
 
-In this project I wanted to show you that you can create responsive website very quickly with Bootstrap.
+In this project I wanted to show that you can create responsive website very quickly with Bootstrap.
 All you have to do is select the view that you want and apply it to your code.
 Don't forget to add Bootstrap CSS and JS to your code before you create your website.
-Look at the image and gif below. My website is responsive to different screen size.
+Look at the image and gif below. My website is responsive to different screen sizes.
 
 ### ***Original Screen Size***
-<img src="https://github.com/ysnhasan1/A-Simple-Website-with-Bootstrap/assets/102024926/df33c736-96fb-47a4-afde-33a1f53dcdc3"><br />
+<img src="https://github.com/ysnhasan1/A-Simple-Website-with-Bootstrap/assets/102024926/a567291e-ac83-4a32-a771-a8bc4eef0c55"><br />
 ---
 
 ### ***Responsive to Smaller Screen Size***
