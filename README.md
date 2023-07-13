@@ -12,5 +12,5 @@ Look at the image and gif below. My website is responsive to different screen si
 ---
 
 ### ***Responsive to Smaller Screen Size***
-<img src="https://github.com/ysnhasan1/A-Simple-Website-with-Bootstrap/assets/102024926/571ddb62-9295-4462-a86d-4d597ba0d4e5" height="450"><br />
+<img src="https://github.com/ysnhasan1/A-Simple-Website-with-Bootstrap/assets/102024926/571ddb62-9295-4462-a86d-4d597ba0d4e5" height="450" width="300"><br />
 ---
